@@ -1,16 +1,17 @@
-### Hi there 👋
+### 本人小苏打，来自中国（？，废物一枚
+### 希望各位大佬指教（
 
-<!--
-**shr-NaHCO3/shr-NaHCO3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![xiaosuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+# 最近在做什么
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shr-NaHCO3&repo=Schat-server&theme=dark)](https://github.com/shr-NaHCO3/Schat-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shr-NaHCO3&repo=share-your-file&theme=dark)](https://github.com/shr-NaHCO3/share-your-file)
+
+如果你愿意为这些储存库出一份力，我将感激不尽！
+
+<br/>
