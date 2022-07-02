@@ -1,9 +1,9 @@
-### 本人小苏打，来自中国（？，废物一枚
-### 希望各位大佬指教（
+### ↖小苏打，初二在读但是心智还是二年级水平
+### 希望各位大佬指教
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![xiaosuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![xiaosuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <br/>
