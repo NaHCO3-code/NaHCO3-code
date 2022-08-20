@@ -1,4 +1,4 @@
-### ←小苏打，初三在读，认为自己只有二年级
+### ←小苏打，初三在读，认为自己只有7岁
 ### 希望各位大佬指教
 
 
@@ -6,7 +6,7 @@
 <!--[![xiaosuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<br/>
+<!--<br/>
 
 # 最近在做什么
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shr-NaHCO3&repo=Schat-server&theme=dark)](https://github.com/shr-NaHCO3/Schat-server)
@@ -14,4 +14,4 @@
 
 如果你愿意为这些储存库出一份力，我将感激不尽！
 
-<br/>
+<br/>-->
