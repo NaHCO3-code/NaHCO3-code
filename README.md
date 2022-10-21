@@ -2,8 +2,8 @@
 ### 希望各位大佬指教
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![xiaosuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-NaHCO3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaHCO3-code&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![xiaosuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaHCO3-code3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--<br/>
