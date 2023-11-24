@@ -1,3 +1,3 @@
 This is NaHCO3-code.
 
-Learning and creating comething interistring.
+Learning and creating comething interesting.
