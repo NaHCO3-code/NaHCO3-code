@@ -1,5 +1,5 @@
-Hi! I am surfish. But you can call me 小苏打 as well as NaHCO3-code.
+Hi! I am surfish. You can call me 小苏打 as well.
 
-Learning and creating comething interesting.
+I am learning and creating comething interesting.
 
-Contact me: surfish.fun@outlook.com
+Contact me: surfish dot fun at outlook dot com
